@@ -3,7 +3,7 @@ var numposts = 100;
 var standardstyling = true;
 
 /*  
-    rawgit url (https://cdn.rawgit.com/D-dig/js/gh-pages/sitemap3.js)
+    rawgit url (https://rawcdn.githack.com/kandangfile/sitemap-label-tertentu/3fde2183122d5a0b1783d37223d52f1a7c220dd5/sitemap.js)
 */
 
 function startpost(json){
